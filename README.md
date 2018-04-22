@@ -13,8 +13,9 @@
 打开AnkiDroid手机软件，点右上角的`┇` ，然后选择`导入牌组`, 即可导入对应的牌组．
 
 使用演示：
-
-http://p7kw4862s.bkt.clouddn.com/How_to_use_ankiDroid.mp4
+<video id="video" controls="" preload="none">
+	<source id="mp4" src="http://p7kw4862s.bkt.clouddn.com/How_to_use_ankiDroid.mp4">
+</video>
 
 ### 2. 学习资料
 
