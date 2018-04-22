@@ -14,7 +14,7 @@
 
 使用演示：
 
-<video id="video" controls="" preload="none" width="50%">
+<video id="video" controls="" preload="none" width="80%">
 	<source id="mp4" src="http://p7kw4862s.bkt.clouddn.com/How_to_use_ankiDroid.mp4">
 </video>
 
